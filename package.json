@@ -1,0 +1,26 @@
+{
+  "name": "blackjack-terminal",
+  "version": "1.0.0",
+  "description": "A Node.js-based terminal Blackjack game",
+  "main": "blackjack.js",
+  "scripts": {
+    "start": "node blackjack.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battincik/blackjack-terminal.git"
+  },
+  "keywords": [
+    "blackjack",
+    "card-game",
+    "nodejs",
+    "terminal-game"
+  ],
+  "author": "Battincik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/battincik/blackjack-terminal/issues"
+  },
+  "homepage": "https://github.com/battincik/blackjack-terminal#readme"
+}
